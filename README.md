@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AliAghaee
+- 👀 I’m interested in Front-End and GUI development.
+- 🌱 I’m currently learning new technologies to improve user interface.
+- 💞️ I’m looking to collaborate on UI.
+- 📫 How to reach me aghaee.ali@gmail.com
